@@ -1,0 +1,6 @@
+streamlit
+pandas
+tabula-py
+# 如果使用 camelot-py 替代 tabula-py，則使用下面這個
+# camelot-py
+# PyPDF2 # 如果需要基礎的 PDF 處理，可以加上
